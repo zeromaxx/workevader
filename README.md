@@ -6,13 +6,7 @@ Local Setup Proccess :
  
 Technologies Used
 
-    Docker: For containerized development and deployment.
-    PHP: Backend logic, using PDO for database interactions.
-    Bootstrap: For responsive and modern styling.
-
 Prerequisites
-
-    Docker and Docker Compose installed on your machine.
 
 1. Clone the repository
 2. Data for the database can be found in db.sql
