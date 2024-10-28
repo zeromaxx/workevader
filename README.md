@@ -27,4 +27,5 @@ Prerequisites : Docker and Docker Compose installed on your machine.
 5. Manager Role Credentials
 
 Email : john.doe@example.com
+
 Psw : john.doe@example.com
