@@ -1,6 +1,6 @@
 # WorkEvader App
 
-Working demo of the can be found here : http://work-evader.great-site.net/
+Working demo of the app can be found here : http://work-evader.great-site.net/
 
 Local Setup Proccess :
  
