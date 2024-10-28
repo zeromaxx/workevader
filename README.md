@@ -6,6 +6,10 @@ Local Setup Proccess :
  
 Technologies Used
 
+Docker: For containerized development and deployment.
+PHP: Backend logic, using PDO for database interaction.
+Boostrap: For responsive modern styling.
+
 Prerequisites
 
 1. Clone the repository
