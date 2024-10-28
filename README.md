@@ -27,3 +27,8 @@ Prerequisites
     Open phpMyAdmin (http://localhost:8081).
     Select the workevader_db database.
     Use the Import feature to upload db.sql
+
+5. Manager Role Credentials
+
+Email : john.doe@example.com
+Psw : john.doe@example.com
