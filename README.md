@@ -4,13 +4,9 @@ Working demo of the app can be found here : http://work-evader.great-site.net/
 
 Local Setup Proccess :
  
-Technologies Used
+Technologies Used : Docker, PHP, Boostrap
 
-Docker: For containerized development and deployment.
-PHP: Backend logic, using PDO for database interaction.
-Boostrap: For responsive modern styling.
-
-Prerequisites
+Prerequisites : Docker and Docker Compose installed on your machine.
 
 1. Clone the repository
 2. Data for the database can be found in db.sql
